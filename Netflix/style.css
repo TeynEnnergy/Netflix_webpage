@@ -1,3 +1,38 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@afred-khan 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+afred-khan
+/
+Netflix_webpage
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Netflix_webpage/Netflix/style.css
+@afred-khan
+afred-khan Netflix like webpage design
+Latest commit 6c2fb89 8 minutes ago
+ History
+ 1 contributor
+429 lines (359 sloc)  6.38 KB
+  
 /* Global Styles */
 :root {
 	--primary-color: #e50914;
@@ -308,6 +343,9 @@ img {
 	border-radius: 2px;
 }
 
+.btn:hover {
+	opacity: 0.9;
+}
 
 .btn-rounded {
 	border-radius: 5px;
@@ -424,3 +462,15 @@ img {
 	margin-top: 3rem;
 }
 }
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
